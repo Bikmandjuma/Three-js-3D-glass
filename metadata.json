@@ -1,0 +1,6 @@
+{
+  "name": "Verdant Glass - 3D Procedural Terrarium",
+  "description": "An interactive 3D glass terrarium with procedural flora, dynamic day/night lighting, and real-time atmospheric weather controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
